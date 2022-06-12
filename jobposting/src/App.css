@@ -1,0 +1,41 @@
+* {
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+  font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande',
+    'Lucida Sans', Arial, sans-serif;
+    
+}
+
+.SignUpcard{
+  height: 500px;
+  border-radius: 20px;
+}
+
+.SignUpcard h2{
+  margin-top: 85px;
+}
+
+.LoginCard h2{
+  margin-top: 80px;
+  font-weight: bold;
+}
+
+.buttonUp, .buttonLog, .updateButt{
+  background-image: linear-gradient(to left, #cd6ba3, #bf6baf, #ad6cba, #976fc4, #7b72cb, #617ed5, #4189db, #0093dd, #00a6de, #00b6d9, #3fc5d3, #6dd3cc);
+  border: none;
+  border-radius: 15px;
+}
+
+.LoginCard {
+  border-radius: 20px;
+}
+
+
+
+.profileCard h2{
+  margin-top: 20px;
+  border-bottom: 2px solid #7b72cb;
+}
+
+
